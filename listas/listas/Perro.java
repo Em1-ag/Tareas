@@ -1,7 +1,5 @@
 package mx.unam.aragon.ico.edd.listas;
 
-import java.util.Objects;
-
 public class Perro {
     private String nombre;
     private String raza;
